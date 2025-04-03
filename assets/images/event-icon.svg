@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="250" fill="#2c3b41"/>
+  
+  <!-- Outer Ring -->
+  <circle cx="256" cy="256" r="230" fill="none" stroke="#6a46e5" stroke-width="12"/>
+  
+  <!-- Calendar Base -->
+  <rect x="136" y="146" width="240" height="220" rx="20" ry="20" fill="#1e1e1e" stroke="#8a64ff" stroke-width="6"/>
+  
+  <!-- Calendar Top Bar -->
+  <rect x="136" y="146" width="240" height="40" rx="20" ry="20" fill="#6a46e5"/>
+  
+  <!-- Calendar Day Circles -->
+  <circle cx="176" y="226" r="15" fill="#8a64ff"/>
+  <circle cx="226" y="226" r="15" fill="#8a64ff"/>
+  <circle cx="276" y="226" r="15" fill="#8a64ff"/>
+  <circle cx="326" y="226" r="15" fill="#8a64ff"/>
+  
+  <circle cx="176" y="276" r="15" fill="#8a64ff"/>
+  <circle cx="226" y="276" r="15" fill="#8a64ff"/>
+  <circle cx="276" y="276" r="15" fill="#ff7eb3"/>
+  <circle cx="326" y="276" r="15" fill="#8a64ff"/>
+  
+  <circle cx="176" y="326" r="15" fill="#8a64ff"/>
+  <circle cx="226" y="326" r="15" fill="#8a64ff"/>
+  <circle cx="276" y="326" r="15" fill="#8a64ff"/>
+  <circle cx="326" y="326" r="15" fill="#8a64ff"/>
+  
+  <!-- Check Mark -->
+  <path d="M276 276 L261 291 L246 276 L261 261 Z" fill="#1e1e1e"/>
+  <path d="M276 276 L291 261 L306 276 L291 291 Z" fill="#1e1e1e"/>
+  
+  <!-- Person Icon -->
+  <circle cx="396" cy="116" r="40" fill="#ff7eb3" stroke="#ffffff" stroke-width="4"/>
+  <path d="M396 166 C426 166 446 186 446 216 L346 216 C346 186 366 166 396 166 Z" fill="#ff7eb3" stroke="#ffffff" stroke-width="4"/>
+</svg>

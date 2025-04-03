@@ -1,0 +1,167 @@
+:root {
+    --body-bg: #1a1d29;
+    --card-bg: #282d3f;
+    --card-border: #3d4255;
+    --text-color: #f8f9fc;
+    --text-muted: #a2a5b9;
+    --border-color: #3d4255;
+    --sidebar-bg: #3a3f51;
+}
+
+body {
+    background-color: var(--body-bg);
+    color: var(--text-color);
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-color: var(--card-border);
+}
+
+.card-header {
+    background-color: rgba(0,0,0,.1);
+    border-bottom-color: var(--card-border);
+}
+
+.table {
+    --bs-table-bg: transparent;
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-striped-color: var(--text-color);
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.15);
+    --bs-table-hover-color: var(--text-color);
+    --bs-table-color: var(--text-color);
+    --bs-table-border-color: var(--border-color);
+}
+
+.form-control, .form-select {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-color: #4e73df;
+    color: var(--text-color);
+}
+
+.input-group-text {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.dropdown-menu {
+    background-color: var(--card-bg);
+    border-color: var(--card-border);
+}
+
+.dropdown-item {
+    color: var(--text-color);
+}
+
+.dropdown-item:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: var(--text-color);
+}
+
+.dropdown-divider {
+    border-top-color: var(--border-color);
+}
+
+.nav-pills .nav-link {
+    color: var(--text-color);
+}
+
+.nav-pills .nav-link.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.app-header {
+    background-color: var(--card-bg);
+    border-bottom-color: var(--border-color);
+}
+
+.app-footer {
+    background-color: var(--card-bg);
+    border-top-color: var(--border-color);
+}
+
+.modal-content {
+    background-color: var(--card-bg);
+    border-color: var(--card-border);
+    color: var(--text-color);
+}
+
+.timeline::before {
+    background-color: var(--border-color);
+}
+
+.timeline-content {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.welcome-card {
+    background-color: #3a3f51;
+}
+
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_processing,
+.dataTables_wrapper .dataTables_paginate {
+    color: var(--text-color);
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: var(--text-color) !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background: var(--primary-color);
+    color: white !important;
+    border-color: var(--primary-color);
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: rgba(0, 0, 0, 0.2);
+    color: var(--text-color) !important;
+    border-color: var(--border-color);
+}
+
+.select2-container--bootstrap-5 .select2-selection {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.select2-container--bootstrap-5 .select2-dropdown {
+    background-color: var(--card-bg);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.select2-container--bootstrap-5 .select2-results__option {
+    color: var(--text-color);
+}
+
+.select2-container--bootstrap-5 .select2-results__option--highlighted {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.theme-toggle .fa-sun {
+    display: inline-block;
+}
+
+.theme-toggle .fa-moon {
+    display: none;
+}
