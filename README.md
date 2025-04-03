@@ -1,6 +1,6 @@
 # Guest Book System
 
-![Guest Book System Logo](https://github.com/zidanmubarak/guest-book-system/blob/main/assets/images/guest.png?raw=true)
+![Guest Book System Logo](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/guest.png?raw=true)
 
 ## 📋 Deskripsi
 
@@ -178,11 +178,11 @@ guest-book-system/
 Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
 
 ### Halaman Login
-![Login Page](?raw=true)
+![Login Page](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/halaman-login.png?raw=true)
 *Halaman login dengan tema modern dan clean*
 
 ### Dashboard
-![Dashboard](?raw=true)
+![Dashboard](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/dashboard.png?raw=true)
 *Dashboard dengan informasi statistik dan menu aksi cepat*
 
 ### Manajemen Tamu
@@ -190,21 +190,21 @@ Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
 *Halaman pengelolaan data tamu dengan kamera untuk pengambilan foto*
 
 ### Manajemen Acara
-![Event Management](?raw=true)
+![Event Management](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/manajemen-acara.png?raw=true)
 *Halaman pengelolaan acara dengan daftar dan fungsi search*
 
 ### Pendaftaran Tamu
-![Participant Registration](?raw=true)
+![Participant Registration](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/pendaftaran-tamu.png?raw=true)
 *Form pendaftaran peserta acara dengan berbagai field dan pengambilan foto*
 
 ### ID Card Generation
-![ID Card Generation](?raw=true)
+![ID Card Generation](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/id-card.png?raw=true)
 *Pembuatan ID card dengan format lanyard dua sisi*
 
 ### Check-in System
-![QR Check-in](?raw=true)
+![QR Check-in](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/check-in.png?raw=true)
 *Sistem check-in menggunakan pemindaian QR code*
 
 ### Laporan Kehadiran
-![Attendance Report](?raw=true)
+![Attendance Report](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/laporan-kehadiran.png?raw=true)
 *Laporan kehadiran dengan grafik statistik dan fungsi export*
