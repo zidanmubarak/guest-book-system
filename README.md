@@ -178,11 +178,11 @@ guest-book-system/
 
 ## 👥 Anggota Kelompok
 
-- **[FAJAR](https://github.com/username1)**
-- **[DHIYAUL AULIYA](https://github.com/username2)**
+- **[FAJAR](https://github.com/)**
+- **[DHIYAUL AULIYA](https://github.com/)**
 - **[ZIDAN MUBARAK](https://github.com/zidanmubarak)**
-- **[NABILA NURIL AULIA](https://github.com/username4)**
-- **[LADY DWI ULFA](https://github.com/username5)**
+- **[NABILA NURIL AULIA](https://github.com/)**
+- **[LADY DWI ULFA](https://github.com/)**
 
 ## 📸 Gallery
 Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
