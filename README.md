@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/guest.png?raw=true" alt="Guest Book System Logo">
 </p>
+
 ## 📋 Deskripsi
 
 Guest Book System adalah aplikasi manajemen tamu terintegrasi berbasis web yang dibangun dengan framework CodeIgniter 3. Aplikasi ini dirancang untuk mempermudah pengelolaan kunjungan tamu, pendaftaran acara, dan sistem kehadiran dengan fitur QR code check-in, pembuatan ID card, dan laporan kehadiran.
