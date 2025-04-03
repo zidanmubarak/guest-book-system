@@ -180,7 +180,7 @@ guest-book-system/
 
 - **[FAJAR](https://github.com/username1)**
 - **[DHIYAUL AULIYA](https://github.com/username2)**
-- **[ZIDAN MUBARAK](https://github.com/username3)**
+- **[ZIDAN MUBARAK](https://github.com/zidanmubarak)**
 - **[NABILA NURIL AULIA](https://github.com/username4)**
 - **[LADY DWI ULFA](https://github.com/username5)**
 
