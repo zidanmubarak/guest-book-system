@@ -1,6 +1,8 @@
 # Guest Book System
 
-![Guest Book System Logo](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/guest.png?raw=true)
+<p align="center">
+  <img src="https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/guest.png?raw=true" alt="Guest Book System Logo">
+</p>
 
 ## 📋 Deskripsi
 
@@ -173,6 +175,14 @@ guest-book-system/
 ├── galeri-projek/            # Aset gambar projek
 └── database/                 # File SQL untuk setup database
 ```
+
+## 👥 Anggota Kelompok
+
+- **[FAJAR](https://github.com/username1)**
+- **[DHIYAUL AULIYA](https://github.com/username2)**
+- **[ZIDAN MUBARAK](https://github.com/username3)**
+- **[NABILA NURIL AULIA](https://github.com/username4)**
+- **[LADY DWI ULFA](https://github.com/username5)**
 
 ## 📸 Gallery
 Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
