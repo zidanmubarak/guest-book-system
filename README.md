@@ -1,6 +1,6 @@
 # Guest Book System
 
-![Guest Book System Logo](https://via.placeholder.com/800x200/007bff/ffffff?text=Guest+Book+System)
+![Guest Book System Logo](https://github.com/zidanmubarak/guest-book-system/blob/main/assets/images/guest.png?raw=true)
 
 ## 📋 Deskripsi
 
@@ -170,8 +170,41 @@ guest-book-system/
 │   │   └── poster_acara/     # Poster acara yang diupload
 │   ├── plugins/              # Plugin JS (Webcam, DataTables, dll)
 │   └── webcamjs/             # Library WebcamJS
+├── galeri-projek/            # Aset gambar projek
 └── database/                 # File SQL untuk setup database
 ```
 
 ## 📸 Gallery
 Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
+
+### Halaman Login
+![Login Page](?raw=true)
+*Halaman login dengan tema modern dan clean*
+
+### Dashboard
+![Dashboard](?raw=true)
+*Dashboard dengan informasi statistik dan menu aksi cepat*
+
+### Manajemen Tamu
+![Guest Management](?raw=true)
+*Halaman pengelolaan data tamu dengan kamera untuk pengambilan foto*
+
+### Manajemen Acara
+![Event Management](?raw=true)
+*Halaman pengelolaan acara dengan daftar dan fungsi search*
+
+### Pendaftaran Tamu
+![Participant Registration](?raw=true)
+*Form pendaftaran peserta acara dengan berbagai field dan pengambilan foto*
+
+### ID Card Generation
+![ID Card Generation](?raw=true)
+*Pembuatan ID card dengan format lanyard dua sisi*
+
+### Check-in System
+![QR Check-in](?raw=true)
+*Sistem check-in menggunakan pemindaian QR code*
+
+### Laporan Kehadiran
+![Attendance Report](?raw=true)
+*Laporan kehadiran dengan grafik statistik dan fungsi export*
