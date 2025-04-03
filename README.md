@@ -195,9 +195,9 @@ Berikut adalah beberapa screenshot dari aplikasi Guest Book System:
 ![Dashboard](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/dashboard.png?raw=true)
 *Dashboard dengan informasi statistik dan menu aksi cepat*
 
-### Manajemen Tamu
+<!--### Manajemen Tamu
 ![Guest Management](?raw=true)
-*Halaman pengelolaan data tamu dengan kamera untuk pengambilan foto*
+*Halaman pengelolaan data tamu dengan kamera untuk pengambilan foto*-->
 
 ### Manajemen Acara
 ![Event Management](https://github.com/zidanmubarak/guest-book-system/blob/main/galeri-projek/manajemen-acara.png?raw=true)
