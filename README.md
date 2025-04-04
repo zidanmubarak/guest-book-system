@@ -76,7 +76,7 @@ Aplikasi menggunakan tema light mode modern dengan tampilan yang clean dan profe
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/username/guest-book-system.git
+   git clone https://github.com/zidanmubarak/guest-book-system.git
    cd guest-book-system
    ```
 
@@ -104,10 +104,7 @@ Aplikasi menggunakan tema light mode modern dengan tampilan yang clean dan profe
    $config['base_url'] = 'http://localhost/guest-book-system/';
    ```
 
-5. **Atur folder upload**
-   - Pastikan folder `assets/images/foto_peserta`, `assets/images/foto_tamu` dan `assets/images/poster_acara` memiliki permission yang benar (chmod 755)
-
-6. **Login ke aplikasi**
+5. **Login ke aplikasi**
    - URL: `http://localhost/guest-book-system/`
    - Username: `admin`
    - Password: `admin123`
